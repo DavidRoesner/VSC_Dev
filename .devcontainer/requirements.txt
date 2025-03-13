@@ -10,3 +10,4 @@ dbt-databricks
 dash
 dash_ag_grid
 databricks_utils
+typing_extensions
