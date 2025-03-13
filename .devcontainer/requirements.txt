@@ -4,6 +4,10 @@ pytest
 iniconfig
 pluggy
 databricks-connect
+databricks-connect # ==16.0
 pandas
 dbt-core
 dbt-databricks
+dash
+dash_ag_grid
+databricks_utils
